@@ -69,7 +69,7 @@ output "course" {
   value = var.course
 }
 output "courses" {
-  value = var.courses[1]
+  value = var.courses[3]
 }
 
 output "course_details" {
