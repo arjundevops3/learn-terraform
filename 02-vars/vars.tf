@@ -73,5 +73,5 @@ output "courses" {
 }
 
 output "course_details" {
-  value = var.course_details[aws]
+  value = var.course_details[AWS]
 }
