@@ -4,7 +4,7 @@ variable "sample" {
 
 
 variable "sample2" {
-  name = arjun
+  default = arjun
 }
 
 output "sample" {
